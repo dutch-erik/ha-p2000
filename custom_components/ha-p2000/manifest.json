@@ -5,8 +5,8 @@
     "@dutch-erik"
   ],
   "config_flow": true,
-  "documentation": "https://github.com/dutch-erik/HA-P2000",
+  "documentation": "https://github.com/dutch-erik/ha-p2000",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/dutch-erik/HA-P2000/issues",
-  "version": "0.0.2"
+  "issue_tracker": "https://github.com/dutch-erik/ha-p2000/issues",
+  "version": "0.0.3"
 }
