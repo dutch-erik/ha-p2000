@@ -8,5 +8,5 @@
   "documentation": "https://github.com/dutch-erik/ha-p2000",
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/dutch-erik/ha-p2000/issues",
-  "version": "0.0.3"
+  "version": "0.0.4"
 }
