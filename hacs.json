@@ -1,5 +1,5 @@
 {
-    "name": "ha-p2000",
-    "homeassistant": "2025.1.0",
-    "hacs": "2.0.2"
+    "name": "P2000",
+    "homeassistant": "2025.10.3",
+    "country": ["NL"]
 }
