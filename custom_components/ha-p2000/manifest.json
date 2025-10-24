@@ -1,5 +1,5 @@
 {
-  "domain": "integration_ha-p2000",
+  "domain": "ha-p2000",
   "name": "Integration HA-p2000",
   "codeowners": [
     "@dutch-erik"
